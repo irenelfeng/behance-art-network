@@ -10,4 +10,4 @@ image-image adjacency matrix based on similar users
 1. Community finding via Modularity
 2. Community finding via Spectral Clustering 
 3. PCA on image-image adjacency matrix
-4. 
+4. k-nearest neighbors Similarity
